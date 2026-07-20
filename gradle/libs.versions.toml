@@ -1,7 +1,7 @@
 [versions]
 agp = "9.2.1"
 ksp = "2.3.9"
-kotlin = "2.3.21"
+kotlin = "2.4.10"
 serializationJson = "1.11.0"
 jazzer = "0.22.1"
 junit5 = "6.1.0"
@@ -28,7 +28,7 @@ androidxBenchmark = "1.5.0-alpha06"
 classgraph = "4.8.179"
 dokka = "2.2.0"
 detekt = "1.23.8"
-kover = "0.9.8"
+kover = "0.9.9"
 cyclonedx = "3.2.4"
 mavenPublish = "0.37.0"
 
